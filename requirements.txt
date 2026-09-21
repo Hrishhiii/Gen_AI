@@ -2,3 +2,5 @@ langchain
 langchain-groq
 python-dotenv
 ipykernel
+pypdf
+langchain_community
