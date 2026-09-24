@@ -4,3 +4,7 @@ python-dotenv
 ipykernel
 pypdf
 langchain_community
+langchain_huggingface
+sentence-transformers
+langchain-chroma
+langchain-text-splitter
